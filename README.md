@@ -1,2 +1,2 @@
 # Travel--Site
-This project shows the index pagte of a model travel site.
+This project shows the index page of a model travel site.
